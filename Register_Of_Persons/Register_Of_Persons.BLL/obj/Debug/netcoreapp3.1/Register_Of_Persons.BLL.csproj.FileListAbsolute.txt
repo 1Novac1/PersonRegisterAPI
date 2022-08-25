@@ -1,0 +1,13 @@
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\bin\Debug\netcoreapp3.1\Register_Of_Persons.BLL.deps.json
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\bin\Debug\netcoreapp3.1\Register_Of_Persons.BLL.dll
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\bin\Debug\netcoreapp3.1\Register_Of_Persons.BLL.pdb
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\bin\Debug\netcoreapp3.1\Register_Of_Persons.DAL.dll
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\bin\Debug\netcoreapp3.1\Register_Of_Persons.DAL.pdb
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\obj\Debug\netcoreapp3.1\Register_Of_Persons.BLL.csproj.AssemblyReference.cache
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\obj\Debug\netcoreapp3.1\Register_Of_Persons.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\obj\Debug\netcoreapp3.1\Register_Of_Persons.BLL.AssemblyInfoInputs.cache
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\obj\Debug\netcoreapp3.1\Register_Of_Persons.BLL.AssemblyInfo.cs
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\obj\Debug\netcoreapp3.1\Register_Of_Persons.BLL.csproj.CoreCompileInputs.cache
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\obj\Debug\netcoreapp3.1\Register_Of_Persons.BLL.csproj.CopyComplete
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\obj\Debug\netcoreapp3.1\Register_Of_Persons.BLL.dll
+F:\Task\Register_Of_Persons\Register_Of_Persons.BLL\obj\Debug\netcoreapp3.1\Register_Of_Persons.BLL.pdb

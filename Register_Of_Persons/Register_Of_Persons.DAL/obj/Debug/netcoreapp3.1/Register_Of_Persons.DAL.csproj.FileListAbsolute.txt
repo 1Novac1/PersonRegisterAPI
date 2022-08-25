@@ -1,0 +1,13 @@
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\bin\Debug\netcoreapp3.1\Register_Of_Persons.DAL.deps.json
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\bin\Debug\netcoreapp3.1\Register_Of_Persons.DAL.runtimeconfig.json
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\bin\Debug\netcoreapp3.1\Register_Of_Persons.DAL.runtimeconfig.dev.json
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\bin\Debug\netcoreapp3.1\Register_Of_Persons.DAL.dll
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\bin\Debug\netcoreapp3.1\Register_Of_Persons.DAL.pdb
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\obj\Debug\netcoreapp3.1\Register_Of_Persons.DAL.csproj.AssemblyReference.cache
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\obj\Debug\netcoreapp3.1\Register_Of_Persons.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\obj\Debug\netcoreapp3.1\Register_Of_Persons.DAL.AssemblyInfoInputs.cache
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\obj\Debug\netcoreapp3.1\Register_Of_Persons.DAL.AssemblyInfo.cs
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\obj\Debug\netcoreapp3.1\Register_Of_Persons.DAL.csproj.CoreCompileInputs.cache
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\obj\Debug\netcoreapp3.1\Register_Of_Persons.DAL.dll
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\obj\Debug\netcoreapp3.1\Register_Of_Persons.DAL.pdb
+F:\Task\Register_Of_Persons\Register_Of_Persons.DAL\obj\Debug\netcoreapp3.1\Register_Of_Persons.DAL.genruntimeconfig.cache
