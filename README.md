@@ -17,7 +17,7 @@ The following NuGet packages are included in this project:
      - Microsoft.AspNetCore.Http.Features - [Link](https://www.nuget.org/packages/Microsoft.AspNetCore.Http.Features/5.0.17?_src=template)
 
   3. DAL:
-     - Microsoft.EntityFrameworkCore - [Link]()
+     - Microsoft.EntityFrameworkCore - [Link](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/5.0.17?_src=template)
      - Microsoft.EntityFrameworkCore.Design - [Link](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/5.0.17?_src=template)
      - Microsoft.EntityFrameworkCore.SqlServer - [Link](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/5.0.17?_src=template)
      - Microsoft.EntityFrameworkCore.Tools - [Link](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools/5.0.17?_src=template)
@@ -40,4 +40,5 @@ The following NuGet packages are included in this project:
   - `GET(ROUTE:api/personskill/{id})` GetById - Returns a record by id
   - `GET(ROUTE:api/personskill/all)` GetAll - Returns all records from a table in a database
 
+### Sample CSV file with random data for testing ![csvExample](csvExample.csv)
 #
